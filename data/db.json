@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "React",
+      "author": "Ahmad",
+      "genre": "Tech",
+      "year": "2025",
+      "id": "4ccd"
+    },
+    {
+      "id": "1b7c",
+      "title": "Angular",
+      "author": "Bahaa",
+      "genre": "Tech",
+      "year": "2023"
+    }
+  ],
+  "users": [],
+  "posts": [],
+  "sliders": [
+    {
+      "title": "Welcome to our website",
+      "desc": "t;kdsfasdf",
+      "imgUrl": "",
+      "id": ""
+    }
+  ]
+}
